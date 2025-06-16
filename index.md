@@ -18,7 +18,7 @@ layout: default
 
 </details>
 
-# Deep Research Prompt to help choose your candidates for mayor
+# My 2025 NYC Mayoral Primary Ballot (Deep Research Prompt)
 The goal of the prompt below is to allow you to quickly and easily find a slate of ranked choice candidates that expresses your political preferences. 
 
 ![Turn on Deep Research on ChatGPT](chatgpt.gif)
