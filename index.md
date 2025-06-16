@@ -9,7 +9,7 @@ layout: default
 
 • **When:** Early voting June 14-22, Primary Day June 24. [Check hours here](https://www.vote.nyc/elections)
 
-• **Who can vote:** Must be registered Democrat (Republicans/unaffiliated can't vote in Dem primary). Deadline to register is TODAY, June 14
+• **Who can vote:** Must be registered Democrat (Republicans/unaffiliated can't vote in Dem primary). Deadline to register was June 14.
 
 • **Where:** [Look up your polling location](https://findmypollsite.vote.nyc/) - early voting location may differ from Primary Day
 
