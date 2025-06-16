@@ -2,7 +2,8 @@
 title: NYC Mayoral Primary Quick Guide
 layout: default
 ---
-
+<details>
+  <summary>Quick facts about voting</summary>
 # NYC Mayoral Primary Quick Guide
 
 **Key Links:** [Find your polling place](https://findmypollsite.vote.nyc/) | [Register to vote](https://e-register.vote.nyc/) | [Check registration](https://amiregistered.vote.nyc/) | [Request mail ballot](https://requestballot.vote.nyc/)
@@ -15,9 +16,12 @@ layout: default
 
 • **How:** Ranked-choice voting - rank up to 5 candidates in order of preference. **Read below for a quick prompt for researching and building your ballot with an AI Deep Research query.**
 
-# Deep Research Prompt: NYC Mayoral Democratic Primary Ranked Choice Voting Guide
+</details>
 
-The goal is to allow you to quickly and easily find a slate of ranked choice candidates that expresses your political preferences. 
+# Deep Research Prompt to help choose your candidates for mayor
+The goal of the prompt below is to allow you to quickly and easily find a slate of ranked choice candidates that expresses your political preferences. 
+
+![Turn on Deep Research on ChatGPT](chatgpt.gif)
 
 ## Instructions
 
