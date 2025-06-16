@@ -13,7 +13,7 @@ layout: default
 
 • **Where:** [Look up your polling location](https://findmypollsite.vote.nyc/) - early voting location may differ from Primary Day
 
-• **How:** Ranked-choice voting - rank up to 5 candidates in order of preference. Front-runners are Andrew Cuomo and Zohran Mamdani. **Read below for a quick prompt for researching and building your ballot with an AI Deep Research query.**
+• **How:** Ranked-choice voting - rank up to 5 candidates in order of preference. **Read below for a quick prompt for researching and building your ballot with an AI Deep Research query.**
 
 # Deep Research Prompt: NYC Mayoral Democratic Primary Ranked Choice Voting Guide
 
