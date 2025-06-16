@@ -21,7 +21,7 @@ The goal is to allow you to quickly and easily find a slate of ranked choice can
 
 ## Instructions
 
-Fill out the following two sections and then copy/paste into your Deep Research AI tool of choice (e.g. https://openai.com/index/introducing-deep-research/). 
+Fill out the following two sections and then copy/paste into your Deep Research AI tool of choice (e.g. [ChatGPT Deep Research](https://openai.com/index/introducing-deep-research/).)
 
 ## Your Information (Fill This Out First)
 
