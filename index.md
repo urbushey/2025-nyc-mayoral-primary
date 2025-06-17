@@ -2,9 +2,11 @@
 title: NYC Mayoral Primary Quick Guide
 layout: default
 ---
-<details>
-  <summary>Quick facts about voting</summary>
 # NYC Mayoral Primary Quick Guide
+
+<details>
+
+  <summary>Quick facts about voting</summary>
 
 **Key Links:** [Find your polling place](https://findmypollsite.vote.nyc/) | [Register to vote](https://e-register.vote.nyc/) | [Check registration](https://amiregistered.vote.nyc/) | [Request mail ballot](https://requestballot.vote.nyc/)
 
